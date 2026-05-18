@@ -16,6 +16,10 @@ Support Controller
 - PLC (Mitsubishi , Siemens, Omron, Scheneider, Allen Bradley, Dll)
 - Microcontroller (NodeMCU / WEMOS / ESP8266 / Arduino)
 
+Download :
+-
+https://febri.tech/app/febrigateway.zip
+
 
 Contact Saya Apabila ada kendala / request pembaruan :
 -
