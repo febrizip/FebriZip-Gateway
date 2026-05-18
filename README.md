@@ -22,8 +22,10 @@ Contact Saya Apabila ada kendala / request pembaruan :
 Linkedin : https://linkedin.com/in/mfebri
 Facebook : https://facebook.com/febrizip.id 
 
-Gambar
--<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/07280b25-9a0e-4ba7-bb8c-a807a1d02015" />
+Gambar 
+-
+<img width="1125" height="763" alt="image" src="https://github.com/user-attachments/assets/111e6455-ab55-4c30-b3d8-afd7d6f212ea" />
+<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/07280b25-9a0e-4ba7-bb8c-a807a1d02015" />
 <img width="1128" height="771" alt="image" src="https://github.com/user-attachments/assets/3d20051e-3c68-4524-b061-11eac69d336c" />
 <img width="1129" height="778" alt="image" src="https://github.com/user-attachments/assets/ca91c54d-c16c-4180-97f9-c7ba265ea0ad" />
 
