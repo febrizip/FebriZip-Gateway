@@ -24,6 +24,8 @@ Facebook : https://facebook.com/febrizip.id
 
 Gambar 
 -
+<img width="1943" height="898" alt="image" src="https://github.com/user-attachments/assets/a74b3d4e-7327-4aca-872c-90429192e4a5" />
+
 <img width="1125" height="763" alt="image" src="https://github.com/user-attachments/assets/111e6455-ab55-4c30-b3d8-afd7d6f212ea" />
 <img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/07280b25-9a0e-4ba7-bb8c-a807a1d02015" />
 <img width="1128" height="771" alt="image" src="https://github.com/user-attachments/assets/3d20051e-3c68-4524-b061-11eac69d336c" />
